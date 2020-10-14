@@ -26,3 +26,6 @@
 main {
   padding-top: 90px;
 }
+main .card {
+  margin-bottom: 20px;
+}
